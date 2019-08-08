@@ -3,5 +3,6 @@
 first file in repo...updated
 
 ##Ipsu stuff
+here are the files in site:
 
-blah blah blah
+index.html
